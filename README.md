@@ -4,4 +4,4 @@ The origin is a Netflix clone developed with PHP, JavaScript, MySQL, HTML and CS
 # Prequisites
 - Install xampp before hand using code from this repo
 - Knowledge of git 
-- It runs localhost:3000
+- Knowledge of MySQL to understand the queries
